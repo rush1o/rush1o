@@ -35,7 +35,7 @@
 
 # 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=rush1o&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api?username=rush1o&custom_title=Rushi's+GitHub+Stats&theme=radical&show_icons=true&rank_icon=github)  
 ![](https://nirzak-streak-stats.vercel.app/?user=rush1o&theme=radical&hide_border=false)  
 
 ### 🔝 Most Used Languages
