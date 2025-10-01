@@ -19,7 +19,7 @@
 **Cloud & Data:**  
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)  
 ![Databricks](https://img.shields.io/badge/Databricks-FC3626?style=flat&logo=databricks&logoColor=white)  
-![Azure Event Hub](https://img.shields.io/badge/Azure%20Event%20Hub-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
+![Event Hub](https://img.shields.io/badge/Event%20Hub-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
 ![Azure App Service](https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)  
@@ -54,9 +54,9 @@
 ---
 
 ## 🌟 Beyond Code  
-- 🏸 Love solving problems on and off the court 
+- 🏸 Love solving problems on and off the court (badminton)
 - 📚 Lifelong learner, currently geeking on **Real-time analytics & Event-driven design**  
-- ☕ Runs on coffee, curiosity, and clean code  
+- ☕ Run on coffee, curiosity, and clean code  
 
 ---
 
