@@ -17,7 +17,7 @@
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C.svg?style=flat&logo=apachespark&logoColor=white)  
 
 **Cloud & Data:**  
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)  
 ![Databricks](https://img.shields.io/badge/Databricks-FC3626?style=flat&logo=databricks&logoColor=white)  
 ![Azure Event Hub](https://img.shields.io/badge/Azure%20Event%20Hub-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
@@ -54,14 +54,14 @@
 ---
 
 ## 🌟 Beyond Code  
-- 🏸 Love solving problems on and off the court (badminton 🎯)  
-- 📚 Lifelong learner, currently geeking on **real-time analytics & event-driven design**  
+- 🏸 Love solving problems on and off the court 
+- 📚 Lifelong learner, currently geeking on **Real-time analytics & Event-driven design**  
 - ☕ Runs on coffee, curiosity, and clean code  
 
 ---
 
 💬 Let’s talk Data, Azure, or anything tech!  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rush1o) | [Twitter](https://x.com/rush1o)  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rushi-wankhade)  
 
 ---
 
