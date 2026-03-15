@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Rushi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Data+Engineer+%40+heart%2C+Architect+%40+scale;Azure+Expert+%7C+IIT+Bombay+Alum;Real-time+Pipeline+Builder;Cloud-first+%E2%80%A2+ETL+%E2%80%A2+Data+Lakes+%E2%80%A2+Event-Driven;Forever+hungry+for+new+tech+%26+smarter+pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Data+Engineer+%40+heart%2C+Architect+%40+scale;Azure+Expert+%7C+IIT+Bombay+Alum;Real-time+Pipeline+Builder;Cloud-first+%E2%80%A2+ETL+%E2%80%A2+Data+Lakes+%E2%80%A2+Event-Driven-Architectures;Forever+hungry+for+new+tech+%26+smarter+pipelines)](https://git.io/typing-svg)
 
 </div>
 
@@ -75,6 +75,7 @@ Reading: Designing Data-Intensive Applications by Martin Kleppmann
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=azure-data-explorer&logoColor=white)
 
 </details>  
 
@@ -163,7 +164,7 @@ Replace the placeholder badges below with your actual certifications:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rush1o&custom_title=Rushi's+GitHub+Stats&theme=radical&show_icons=true&rank_icon=github&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rush1o&custom_title=Rushi's+GitHub+Stats&theme=radical&show_icons=true&rank_icon=github&hide_border=true&include_all_commits=true)  
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rush1o&theme=radical&hide_border=true)
 
 ### 🔝 Most Used Languages
