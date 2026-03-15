@@ -23,6 +23,25 @@ Reading: Designing Data-Intensive Applications by Martin Kleppmann
 
 ---
 
+## 💡 Engineering Philosophy
+
+<div align="center">
+
+*"Data is the new oil, but only if refined properly. Build pipelines that don't leak."*
+
+</div>
+
+**My Principles:**
+
+- 🎯 **Design for scale from day one** — Future-you will thank present-you
+- 🔒 **Security isn't optional, it's foundational** — Build trust into every layer
+- 📊 **If you can't measure it, you can't improve it** — Observability is non-negotiable
+- 🚀 **Automate everything that can be automated** — Let machines do machine work
+- 🤝 **Code reviews are love letters to your future self** — Write code others can understand
+- ⚡ **Performance matters, but readability matters more** — Optimize for maintainability first
+
+---
+
 ## 💻 Tech Arsenal  
 
 <details open>
@@ -214,9 +233,27 @@ The action can be triggered manually from the Actions tab or will run on push to
 
 ---
 
+<div align="center">
+
 ### ✍️ Random Dev Quote
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+## 📈 By The Numbers
+
+<div align="center">
+
+| 💼 **Professional** | 🎓 **Learning** | ☕ **Lifestyle** |
+| :---: | :---: | :---: |
+| **5+** Years Experience | **1000+** Hours Learning | **∞** Cups of Coffee |
+| **Multiple TB** Data Processed | **50+** Technologies Used | **365** Days Coding |
+| **99.9%** Pipeline Uptime | **Azure** Certified | **100%** Passion |
+
+</div>
 
 ---
 
@@ -228,8 +265,18 @@ The action can be triggered manually from the Actions tab or will run on push to
 
 ---
 
-💬 Let’s talk Data, Azure, or anything tech!  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rushi-wankhade)
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushi-wankhade)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wankhader98@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rush1o)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/rush1o)
+
+💬 **Let's talk Data, Azure, or anything tech!**
+
+</div>
 
 ---
 
