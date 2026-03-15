@@ -166,7 +166,7 @@ Replace the placeholder badges below with your actual certifications:
 <div align="center">  
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=rush1o&repo=rush1o&theme=radical" alt="Project 4" width="100%" />
 <br><br>
-<p><strong>Azure Data Explorer • KQL • Grafana</strong></p>
+<p><strong>Azure Data Explorer • KQL (Kusto)</strong></p>
 <p>Real-time monitoring & alerting for data pipelines. Custom dashboards providing SLA visibility and proactive issue detection.</p>
 </div>
 </td>
@@ -272,7 +272,6 @@ The action can be triggered manually from the Actions tab or will run on push to
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushi-wankhade)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wankhader98@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rush1o)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/rush1o)
 
 💬 **Let's talk Data, Azure, or anything tech!**
 
