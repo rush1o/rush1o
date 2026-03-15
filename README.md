@@ -177,7 +177,16 @@ Replace the placeholder badges below with your actual certifications:
 
 ### 🐍 Contribution Snake
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/rush1o/rush1o/output/github-contribution-grid-snake-dark.svg)
+<!--
+Note: Snake will appear after running the GitHub Action workflow at least once.
+The action can be triggered manually from the Actions tab or will run on push to main.
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rush1o/rush1o/output/github-contribution-grid-snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rush1o/rush1o/output/github-contribution-grid-snake.svg?v=1">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rush1o/rush1o/output/github-contribution-grid-snake.svg?v=1">
+</picture>
 
 </div>  
 
