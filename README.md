@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Rushi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Data+Engineer+%40+heart%2C+Architect+%40+scale;Azure+Expert+%7C+IIT+Bombay+Alum;Real-time+Pipeline+Builder;Cloud-first+%E2%80%A2+ETL+%E2%80%A2+Data+Lakes+%E2%80%A2+Event-Driven-Architectures;Forever+hungry+for+new+tech+%26+smarter+pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Data+Engineer+%40+heart%2C+Architect+%40+scale;Azure+Expert+%7C+IIT+Bombay+Alum;Real-time+Pipeline+Builder;Cloud-first+%E2%80%A2+ETL+%E2%80%A2+Event-Driven-Architectures;Forever+hungry+for+new+tech+%26+smarter+pipelines)](https://git.io/typing-svg)
 
 </div>
 
