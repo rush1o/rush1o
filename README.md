@@ -173,7 +173,7 @@ Replace the placeholder badges below with your actual certifications:
 
 ### 📈 Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rush1o&theme=redical&hide_border=true&area=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rush1o&theme=radical&hide_border=true&bg_color=141321&color=F75C7E&line=F75C7E&point=FFFFFF)
 
 ### 🐍 Contribution Snake
 
