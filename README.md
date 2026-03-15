@@ -119,7 +119,7 @@ Replace the placeholder badges below with your actual certifications:
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=rush1o&repo=rush1o&theme=radical" alt="Project 1" width="100%" />
 <br><br>
 <p><strong>Azure Event Hub • Databricks • Delta Lake</strong></p>
-<p>Event-driven architecture processing millions of events daily with sub-second latency. Scalable streaming ETL pipeline with data quality checks.</p>
+<p>Event-driven architecture processing millions of events daily. Scalable streaming ETL pipelines with data quality checks.</p>
 </div>
 </td>
 <td width="50%">
@@ -160,22 +160,44 @@ Replace the placeholder badges below with your actual certifications:
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <div align="center">
+  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rush1o&custom_title=Rushi's+GitHub+Stats&theme=radical&show_icons=true&rank_icon=github&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=rush1o&theme=radical&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rush1o&custom_title=Rushi's+GitHub+Stats&theme=radical&show_icons=true&rank_icon=github&hide_border=true&include_all_commits=true)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=rush1o&theme=radical&hide_border=true)
+<br/>
 
-### 🔝 Most Used Languages
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔝 Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rush1o&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="100%" />
+    </td>
+    <td width="50%">
+      <h3>⏰ Productive Time</h3>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rush1o&theme=radical&utcOffset=5.5" alt="Productive Time" width="100%" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rush1o&theme=radical&hide_border=true&layout=compact&langs_count=8)
+<br/>
 
-### 📈 Contribution Activity
+<h3>📈 Contribution Activity</h3>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rush1o&theme=radical" alt="Contribution Graph" width="100%" />
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rush1o&theme=radical&hide_border=true&bg_color=141321&color=F75C7E&line=F75C7E&point=FFFFFF)
+<br/>
 
-### 🐍 Contribution Snake
+<h3>🐍 Contribution Snake</h3>
 
 <!--
 Note: Snake will appear after running the GitHub Action workflow at least once.
@@ -188,13 +210,7 @@ The action can be triggered manually from the Actions tab or will run on push to
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rush1o/rush1o/output/github-contribution-grid-snake.svg?v=1">
 </picture>
 
-</div>  
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rush1o&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=4)  
+</div>
 
 ---
 
@@ -217,4 +233,8 @@ The action can be triggered manually from the Actions tab or will run on push to
 
 ---
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=rush1o&icon=0&color=13)](https://visitcount.itsvg.in)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=rush1o&color=F75C7E&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
